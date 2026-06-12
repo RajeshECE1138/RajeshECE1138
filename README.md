@@ -1,9 +1,12 @@
-```md
+<div align="center">
+
 # Hi there 👋, I'm Rajesh Ghorai
 
 ### Electronics & Communication Engineer | Embedded Systems | IoT | VLSI Enthusiast
 
-Welcome to my GitHub profile! I'm an Electronics and Communication Engineering graduate passionate about building innovative solutions at the intersection of hardware and software.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Embedded+Systems+%7C+IoT+%7C+VLSI;FPGA-based+Biomedical+Signal+Processing;AI-powered+Embedded+Systems;Building+hardware+%2B+software+solutions)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -20,130 +23,140 @@ Welcome to my GitHub profile! I'm an Electronics and Communication Engineering g
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- C
-- C++
-- Java
-- Python
-- Verilog HDL
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog%20HDL-8A2BE2?style=for-the-badge&logo=v&logoColor=white)
 
 ### Tools & Technologies
-- ESP32
-- Arduino
-- FPGA
-- Edge Impulse
-- Blynk
-- Git & GitHub
-- Linux
-- MongoDB
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/-FPGA-FF6F00?style=for-the-badge&logo=chip&logoColor=white)
+![Edge Impulse](https://img.shields.io/badge/-Edge%20Impulse-000000?style=for-the-badge&logo=edgeimpulse&logoColor=white)
+![Blynk](https://img.shields.io/badge/-Blynk-03C3FC?style=for-the-badge&logo=blynk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Domains
-- Embedded Systems
-- Internet of Things (IoT)
-- Machine Learning
-- VLSI Design
-- Digital Electronics
-- Biomedical Signal Processing
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-2EA3F7?style=for-the-badge)
+![IoT](https://img.shields.io/badge/-IoT-00B894?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=for-the-badge)
+![VLSI Design](https://img.shields.io/badge/-VLSI%20Design-8A2BE2?style=for-the-badge)
+![Digital Electronics](https://img.shields.io/badge/-Digital%20Electronics-FFA500?style=for-the-badge)
+![Biomedical Signal Processing](https://img.shields.io/badge/-Biomedical%20Signal%20Processing-E91E63?style=for-the-badge)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚗 DrowsyGuard
-Driver Drowsiness Detection Android Application
+### 🚗 [DrowsyGuard – Driver Drowsiness Detection Android App](https://github.com/RajeshECE1138/DrowsyGuard)
+> Real-time driver drowsiness detection using facial landmarks
 
-**Technologies Used:**
-- CameraX
-- Google ML Kit
-- Eye Aspect Ratio (EAR)
-- MongoDB Atlas
-- Render Deployment
+**Tech Stack:** ![CameraX](https://img.shields.io/badge/-CameraX-4285F4?style=flat-square&logo=android&logoColor=white) ![ML Kit](https://img.shields.io/badge/-Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-**Features:**
-- Real-time face monitoring
-- Drowsiness detection using eye landmarks
-- Alert generation and monitoring
+- 👁️ Real-time face monitoring
+- 😴 Drowsiness detection using Eye Aspect Ratio (EAR)
+- 🚨 Alert generation and monitoring
 
 ---
 
-### ⚡ IoT Smart Energy Meter
+### ⚡ [IoT Smart Energy Meter](https://github.com/RajeshECE1138/IoT-Smart-Energy-Meter)
+> Smart energy monitoring and management system
 
-**Features:**
-- Real-time voltage and current monitoring
-- Energy consumption tracking
-- Cost calculation
-- GSM recharge alerts
-- Blynk cloud integration
-- Automatic power cutoff system
+**Tech Stack:** ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Blynk](https://img.shields.io/badge/-Blynk-03C3FC?style=flat-square&logo=blynk&logoColor=white)
 
----
-
-### ❤️ Health Monitoring System
-
-**Technologies Used:**
-- ESP32
-- MAX30100
-- DS18B20
-- DHT11
-
-**Features:**
-- Heart rate monitoring
-- SpO₂ measurement
-- Temperature monitoring
-- Web-based dashboard
+- 🔋 Real-time voltage and current monitoring
+- 📈 Energy consumption tracking
+- 💰 Cost calculation
+- 📱 GSM recharge alerts
+- ☁️ Blynk cloud integration
+- 🔌 Automatic power cutoff system
 
 ---
 
-### 🫀 FPGA-Based ECG Signal Processing
+### ❤️ [Health Monitoring System](https://github.com/RajeshECE1138/Health-Monitoring-System)
+> ESP32-based vital signs monitoring with web dashboard
 
-**Technologies Used:**
-- AD8232 ECG Sensor
-- Verilog HDL
-- FPGA Implementation
+**Tech Stack:** ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![MAX30100](https://img.shields.io/badge/-MAX30100-009688?style=flat-square) ![DS18B20](https://img.shields.io/badge/-DS18B20-FF9800?style=flat-square) ![DHT11](https://img.shields.io/badge/-DHT11-03A9F4?style=flat-square)
 
-**Features:**
-- ECG signal acquisition
-- FIR/IIR digital filtering
-- Real-time biomedical signal processing
+- ❤️ Heart rate monitoring
+- 🫁 SpO₂ measurement
+- 🌡️ Temperature monitoring
+- 🖥️ Web-based dashboard
+
+---
+
+### 🫀 [FPGA-Based ECG Signal Processing](https://github.com/RajeshECE1138/FPGA-ECG-Signal-Processing)
+> Real-time ECG signal acquisition and digital filtering on FPGA
+
+**Tech Stack:** ![AD8232](https://img.shields.io/badge/-AD8232%20ECG-E91E63?style=flat-square) ![Verilog](https://img.shields.io/badge/-Verilog%20HDL-8A2BE2?style=flat-square) ![FPGA](https://img.shields.io/badge/-FPGA-FF6F00?style=flat-square)
+
+- 📡 ECG signal acquisition
+- 🎛️ FIR/IIR digital filtering
+- ⚙️ Real-time biomedical signal processing
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajeshECE1138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshECE1138&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajeshECE1138&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RajeshECE1138&color=2EA3F7&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/RajeshECE1138?style=social)](https://github.com/RajeshECE1138)
+
+</div>
 
 ---
 
 ## 🏆 Certifications
 
-- Comprehensive Java Programming Course
-- IoT Development
-- Machine Learning Projects
-- Embedded Systems Projects
+- 📜 Comprehensive Java Programming Course
+- 📜 IoT Development
+- 📜 Machine Learning Projects
+- 📜 Embedded Systems Projects
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshECE1138)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-ghorai)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshghorai1204@gmail.com)
+
+</div>
 
 ---
 
 ## 🌟 Interests
 
-- Embedded AI
-- FPGA Design
-- Biomedical Signal Processing
-- IoT Product Development
-- Semiconductor Technology
+![Embedded AI](https://img.shields.io/badge/-Embedded%20AI-2EA3F7?style=for-the-badge)
+![FPGA Design](https://img.shields.io/badge/-FPGA%20Design-8A2BE2?style=for-the-badge)
+![Biomedical Signal Processing](https://img.shields.io/badge/-Biomedical%20Signal%20Processing-E91E63?style=for-the-badge)
+![IoT Product Development](https://img.shields.io/badge/-IoT%20Product%20Development-00B894?style=for-the-badge)
+![Semiconductor Technology](https://img.shields.io/badge/-Semiconductor%20Technology-FFA500?style=for-the-badge)
 
 ---
 
+<div align="center">
+
 ### 💬 Quote
 
-> "Engineering is not only about building systems; it's about creating solutions that make a difference."
-```
+> *"Engineering is not only about building systems; it's about creating solutions that make a difference."*
+
+---
+
+⭐️ From [Rajesh Ghorai](https://github.com/RajeshECE1138)
+
+</div>
 
